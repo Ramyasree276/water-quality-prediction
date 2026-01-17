@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+sklearn102/
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large / sensitive files
+*.pkl
